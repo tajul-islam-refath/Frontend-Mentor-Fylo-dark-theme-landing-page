@@ -25,4 +25,6 @@ The designs were created to the following widths:
 - Desktop: 1440px
 
 
+[Live view : https://nifty-turing-c173e7.netlify.app](https://nifty-turing-c173e7.netlify.app/) 
+
 **Have fun building!** 🚀
